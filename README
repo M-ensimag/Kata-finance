@@ -1,0 +1,2 @@
+Lancez la commande 'make' dans ce répertoire pour générer le bytecode, et 'make exeTest' pour créer les fichiers demandés.
+Pour la documentation, tapez 'make doc'
