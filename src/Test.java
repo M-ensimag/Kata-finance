@@ -7,9 +7,6 @@ import java.util.Map;
  */
 
 class ResultIncorrectException extends Exception {
-    /**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	public ResultIncorrectException() {
